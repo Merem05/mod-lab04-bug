@@ -1,23 +1,22 @@
-name: .NET
+name: Run Tests
 
-
-on: [push, pull_request]
-
+on:
+  push:
+    branches: [ main, b54 ]
+  pull_request:
+    branches: [ main ]
 
 jobs:
- build:
-
-    runs-on: ubuntu-latest
+  test:
+    runs-on: windows-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
+
     - name: Setup .NET
-      uses: actions/setup-dotnet@v1
+      uses: actions/setup-dotnet@v4
       with:
-        dotnet-version: '9.x'
-    - name: Restore dependencies
-      run: dotnet restore
-    - name: Build
-      run: dotnet build --no-restore
-    - name: Test
-      run: dotnet test --no-build --verbosity normal
+        dotnet-version: 8.0.x
+
+    - name: Run tests
+      run: dotnet test
