@@ -1,0 +1,22 @@
+C:\Users\Admin\source\repos\BugPro\BugPro\bin\Debug\BugPro.exe.config
+C:\Users\Admin\source\repos\BugPro\BugPro\bin\Debug\BugPro.exe
+C:\Users\Admin\source\repos\BugPro\BugPro\bin\Debug\BugPro.pdb
+C:\Users\Admin\source\repos\BugPro\BugPro\bin\Debug\Stateless.dll
+C:\Users\Admin\source\repos\BugPro\BugPro\bin\Debug\Stateless.xml
+C:\Users\Admin\source\repos\BugPro\BugPro\obj\Debug\BugPro.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BugPro\BugPro\obj\Debug\BugPro.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BugPro\BugPro\obj\Debug\BugPro.csproj.Up2Date
+C:\Users\Admin\source\repos\BugPro\BugPro\obj\Debug\BugPro.exe
+C:\Users\Admin\source\repos\BugPro\BugPro\obj\Debug\BugPro.pdb
+C:\Users\Admin\source\repos\BugPro\BugPro\obj\Debug\BugPro.exe.config
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugPro\bin\Debug\BugPro.exe.config
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugPro\bin\Debug\BugPro.exe
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugPro\bin\Debug\BugPro.pdb
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugPro\bin\Debug\Stateless.dll
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugPro\bin\Debug\Stateless.xml
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugPro\obj\Debug\BugPro.csproj.AssemblyReference.cache
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugPro\obj\Debug\BugPro.exe.config
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugPro\obj\Debug\BugPro.csproj.CoreCompileInputs.cache
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugPro\obj\Debug\BugPro.csproj.Up2Date
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugPro\obj\Debug\BugPro.exe
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugPro\obj\Debug\BugPro.pdb

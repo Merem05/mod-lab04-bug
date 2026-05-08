@@ -1,0 +1,52 @@
+C:\Users\Admin\source\repos\BugPro\BugTests\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Admin\source\repos\BugPro\BugTests\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\source\repos\BugPro\BugTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Admin\source\repos\BugPro\BugTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Admin\source\repos\BugPro\BugTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\source\repos\BugPro\BugTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Admin\source\repos\BugPro\BugTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\source\repos\BugPro\BugTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\source\repos\BugPro\BugTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\source\repos\BugPro\BugTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Admin\source\repos\BugPro\BugTests\bin\Debug\BugTests.dll
+C:\Users\Admin\source\repos\BugPro\BugTests\bin\Debug\BugTests.pdb
+C:\Users\Admin\source\repos\BugPro\BugTests\bin\Debug\BugPro.exe
+C:\Users\Admin\source\repos\BugPro\BugTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Admin\source\repos\BugPro\BugTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Admin\source\repos\BugPro\BugTests\bin\Debug\Stateless.dll
+C:\Users\Admin\source\repos\BugPro\BugTests\bin\Debug\BugPro.pdb
+C:\Users\Admin\source\repos\BugPro\BugTests\bin\Debug\BugPro.exe.config
+C:\Users\Admin\source\repos\BugPro\BugTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Admin\source\repos\BugPro\BugTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Admin\source\repos\BugPro\BugTests\bin\Debug\Stateless.xml
+C:\Users\Admin\source\repos\BugPro\BugTests\obj\Debug\BugTests.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BugPro\BugTests\obj\Debug\BugTests.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BugPro\BugTests\obj\Debug\BugTests.csproj.Up2Date
+C:\Users\Admin\source\repos\BugPro\BugTests\obj\Debug\BugTests.dll
+C:\Users\Admin\source\repos\BugPro\BugTests\obj\Debug\BugTests.pdb
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugTests\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugTests\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugTests\bin\Debug\BugTests.dll
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugTests\bin\Debug\BugTests.pdb
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugTests\bin\Debug\BugPro.exe
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugTests\bin\Debug\Stateless.dll
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugTests\bin\Debug\BugPro.pdb
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugTests\bin\Debug\BugPro.exe.config
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugTests\bin\Debug\Stateless.xml
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugTests\obj\Debug\BugTests.csproj.AssemblyReference.cache
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugTests\obj\Debug\BugTests.csproj.CoreCompileInputs.cache
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugTests\obj\Debug\BugTests.csproj.Up2Date
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugTests\obj\Debug\BugTests.dll
+F:\штанюк\BugPro 4 Штанюк или нет хз\BugPro\BugTests\obj\Debug\BugTests.pdb
